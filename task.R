@@ -1,3 +1,6 @@
+#I am changing this file a little bit
+
+
 ### Loading libraries
 install.packages("pastecs")
 install.packages("GGally")
