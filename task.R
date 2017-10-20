@@ -1,5 +1,6 @@
 #I am changing this file a little bit
 #marina adds comment at 3:16pm
+# rachel commented here.
 
 ### Loading libraries
 install.packages("pastecs")
